@@ -1,16 +1,19 @@
 # Get started with Sanity and Next.js
 
-This project contains a minimal Next.js starter project to list animals on a page.
+This project contains a minimal Next.js starter project to list animals on a
+page.
 
 ## Set up
 
-To set up this project locally, you will need to have [Node](https://nodejs.org/en/) installed, then run:
+To set up this project locally, you will need to have
+[Node](https://nodejs.org/en/) installed, then run:
 
 ```bash
 npm install
 ```
 
-After that, your dependencies are installed and you can start a development server:
+After that, your dependencies are installed and you can start a development
+server:
 
 ```bash
 npm run dev
